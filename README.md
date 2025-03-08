@@ -1,0 +1,2 @@
+# Decentralized Quantum Consciousness Collective
+ 

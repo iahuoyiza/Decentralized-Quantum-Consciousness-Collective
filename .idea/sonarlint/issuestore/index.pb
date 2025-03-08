@@ -13,3 +13,5 @@ Z
 *tests/collective-thought-consensus.test.ts,0/9/09b7ff3128503c070446be8bb8dbd267089e9d73
 U
 %contracts/quantum-neural-network.clar,e/f/ef0145d5659b6e7a36a4a659fe4b8b737e4b31db
+T
+$tests/quantum-neural-network.test.ts,8/f/8fb9575df6bb3438881ba1fd0056f313ddbb5123

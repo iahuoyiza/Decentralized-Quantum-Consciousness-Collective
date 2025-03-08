@@ -7,3 +7,5 @@ V
 .gitattributes,2/4/24139dae656713ba861751fb2c2ac38839349a7a
 U
 %tests/mind-state-quantization.test.ts,3/d/3da121f425ebfb0993c241e720c781769ebfe213
+[
++contracts/collective-thought-consensus.clar,1/0/100af1b4a4f11afb7ea4a5c4fde3486bbe4975cc
